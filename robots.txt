@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://xiaolong-guo.github.io/sitemap.xml
+Sitemap: https://Xiaolong-Guo.github.io/sitemap.xml
